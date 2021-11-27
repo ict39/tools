@@ -1,4 +1,6 @@
 # 章魚燒計畫
+[簡報參考](https://docs.google.com/presentation/d/1nlNnABwdUEvX3TW9dYmmgEJf6in98Rot/edit?usp=sharing&ouid=113752483856941923298&rtpof=true&sd=true)
+
 ## 目的：
 透過此計劃確認操作者使用我的機器要有基本的職能  
 ~~不同的帳號有不同的身份：資料科學家、網路工程師~~
