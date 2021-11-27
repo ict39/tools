@@ -1,27 +1,27 @@
 # 章魚燒計畫
-[簡報參考](https://docs.google.com/presentation/d/1nlNnABwdUEvX3TW9dYmmgEJf6in98Rot/edit?usp=sharing&ouid=113752483856941923298&rtpof=true&sd=true)
-
+[簡報參考](https://docs.google.com/presentation/d/1nlNnABwdUEvX3TW9dYmmgEJf6in98Rot/edit?usp=sharing&ouid=113752483856941923298&rtpof=true&sd=true)  
+~~應景魷魚遊戲~~  
 ## 目的：
 透過此計劃確認操作者使用我的機器要有基本的職能  
-~~不同的帳號有不同的身份：資料科學家、網路工程師~~
+不同的帳號有不同的身份：資料科學家、網路工程師
 資料科學家、網路工程師使用的命令不同，應受的考驗也不同。
 一旦回答錯誤，CONTAINER 直接報廢，所有指令不可使用。
 
 
 ---
-## 功能：
-1.資料容量大小計算
-2.網路代號計算
-3.檔案目錄權限判讀
+## 功能：  
+1.資料容量大小計算  
+2.網路代號計算  
+3.檔案目錄權限判讀  
 
 ---
-## 下載光碟片
+## 下載光碟片  
 ```
 $ docker pull ict39/takoyaki
 ```
 
 ---
-## 程式碼：
+## 程式碼：  
 ```
 $ cat sh
 ```
